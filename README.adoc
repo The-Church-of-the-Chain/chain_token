@@ -7,9 +7,5 @@ This is the git repository for the CHAIN ERC20 token project.
 
 This is still a work in progress.
 
-ifdef::env-github[]
-<<docs/onboarding.adoc, Onboarding>>
-endif::[]
-ifndef::env-github[]
 include::content/docs/onboarding.adoc[]
-endif::[]
+
