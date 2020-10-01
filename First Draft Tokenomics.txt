@@ -1,0 +1,105 @@
+Bonding - Person insert ETH into bond the contract then splits the bond into two bonds  
+
+bond A =ETH  
+
+Bond B=Chain 
+
+ 
+
+  
+
+The bond A+B is then permanently bonded with the chain 
+
+ 
+
+ 
+
+The chain returns to the user an  EFIChain Token from the EFIChain Vault “(1:100?) EFIChain:Chain “ 
+
+Which is bonded to bond B  
+
+ 
+
+The EFI Token is then deposited into a staking pool which generates bond yields at a ratio of (1:100?) EFIChain:Chain 
+
+ 
+
+ 
+
+Interest generated is deposited into the Chain Vault 
+
+ 
+
+EFIChain is stored in the Chain Vault 
+
+ 
+
+ 
+
+Bond B generates more Chain tokens which are deposited into a Bonding pool for the user to be able to withdraw by the user at any time. The bonding pool accumulates EFI chain token from the Chain Vault as a reward for Bonding with the Chain Bonding Platform In order for a user to trade the commodity at market or hold as a token 
+
+When a user withdrwas EFichain from the staking pool the EFIChain is triggers a conversion of EFIChain into Chain which returns unbonded Chain to the user 
+
+Once the user gets the Unbonded Chain the user can with draw the Chain to be traded on market held or exchanged for interest 
+
+If the user wishes to exchange unbonded Chain for interest the user will initiate an exchange into the interest pool the chain is then sent to the chain vault and the user can get chain + accrued interest from the vault as eth  
+
+ 
+
+Anytime chain is sent to the vault to collect interest the total circulating supply of chain is reduced by the amount of chain submitted to collect interest  
+
+Anytime chain is created from the staking of EFIChain the total circulating supply of chain is increased  
+
+ 
+
+The decrease in circulating supply will cause a rebase which raises the bonding cost of Chain and increase chain bonding staking rewards  
+
+ 
+
+When the circulating supply increases it will cause a debase which lowers the bonding cost of chain and decreases the chain bonding staking rewards  
+
+ 
+
+ 
+
+ increase the total supply of circulating chain tokens so long as the 
+
+ 
+
+ 
+
+ 
+
+1) Does a participant have the ability to withdraw any value from the CORE-ETH UNI LPs we have bought for them? 
+
+No – the participant gets EFIChain as a commidity which build intrest after bonding that can be traded for Chain commidity tokens Chain commodity tokns can be traded for pooled intrest or on open market for open market value  
+
+2) Is interest accrued through a bonding token (e.g. like TRIB), or something new?(edited) 
+
+Interest is accured via staking bonded  EFIChain EFI chain can be exchanged for Chain and traded for market or deposited into Chain vault to collect and withdraw Eth at market value  
+
+3) What triggers a Chain interest withdraw 
+
+Deposit of chain into vault   
+
+Witdraw of EFIChain triggers EFIChain intrest+intital Bonded EFIChain witdraw 
+
+ 
+
+4) How do we incentivize long term holding behavior (which depends on the answer to 1)(edited) 
+
+The longer EFIChain is bonded the more EFI Chain a person can accumulate EFIChain can be withdrawn and converted to Chain the more chain a person has the more Chain a person can deposit to the vault to collect ETH or trade on market for market value 
+
+5) We must set this up in such a way that it is legal 
+
+Chain will be a commodity bonding platform the ETH deposited into chain rewards the users with bonded EFIChain tokens which can be traded for Chain Commodity tokens which can be traded and withdrawn freely or traded for eth from the vault 
+
+Chain guarantees no returns no set interest rates and value of chain commodity tokens is dictated by open market exchange and not by the chain platform itself 
+
+ 
+
+Chains rebase and debase functions aim to regulate the circulating supply of chain token by use of smart contract and set a floor of which the commodity tokens can be sold to chain platform for 
+
+ 
+
+Chain    link()rebase) and unlink(debase) model links and unlinks tokens via the vault to make sure circulating supply will always remain variable and available for new and old users alike 
